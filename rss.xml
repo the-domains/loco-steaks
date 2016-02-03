@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Loco Steaks]]></title>
         <description><![CDATA[Loco Steaks]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/loco-steaks/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 03 Feb 2016 17:34:26 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Wed, 03 Feb 2016 17:35:13 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/loco-steaks/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/3faef9be-77bd-4ef7-abc5-b855510a31b6.jpg">]]></description>
+            <link>https://thegrid.ai/loco-steaks/081571d7-3081-4666-b071-3d1f9db8614e/index.html</link>
+            <guid isPermaLink="false">081571d7-3081-4666-b071-3d1f9db8614e</guid>
+            <pubDate>Wed, 03 Feb 2016 17:34:50 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>Loco Steaks</p>]]></description>
-            <link>undefinedc52dcfac-52f9-4ea6-af0f-d831835215c6/index.html</link>
+            <link>https://thegrid.ai/loco-steaks/c52dcfac-52f9-4ea6-af0f-d831835215c6/index.html</link>
             <guid isPermaLink="false">c52dcfac-52f9-4ea6-af0f-d831835215c6</guid>
             <pubDate>Wed, 03 Feb 2016 17:34:09 GMT</pubDate>
         </item>
