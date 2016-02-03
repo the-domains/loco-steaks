@@ -1,0 +1,14 @@
+layout_spectrum: 0
+color:
+  saturation: 0.7199217
+  lightness: 0.3424746
+  brandStrength: 0.8741285
+  rhythmicContrast: 0.7173916
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+typography_spectrum: 0.6666237
+name: Loco Steaks
