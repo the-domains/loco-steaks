@@ -1,3 +1,7 @@
+name: Loco Steaks
+favicon: null
+layout_spectrum: 0
+typography_spectrum: 0.6666237
 collections:
   - index:
       path: /
@@ -10,17 +14,27 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
-  saturation: 0.7199217
-  brandStrength: 0.480666
-  lightness: 0.3424746
   brandColors:
     - '#000000'
     - '#BD1F21'
     - '#FFFFFF'
     - '#706764'
     - '#D0C7C2'
+  brandStrength: 0.5
+  lightness: 0.3424746
+  saturation: 0.7199217
   rhythmicContrast: 0.7173916
-typography_spectrum: 0.6666237
-layout_spectrum: 0
-name: Loco Steaks
+purpose: []
